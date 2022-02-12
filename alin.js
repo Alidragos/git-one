@@ -1,2 +1,2 @@
-console.log(alin);
+console.log('alin');
 
